@@ -17,22 +17,30 @@
 
 		<h2>Рекомендации по акциям избранных компаний</h2>
 		<p>Я распарсил данные Тинькофф.Инвестиций по своим избранным акциям - и вот что получилось</p>
-
-		<p>Актуально на </p>
+		<p>Актуально на <span id="file_date"></span></p>
+		<p>Для фильтрации можно использовать и <a href="https://mottie.github.io/tablesorter/docs/example-widget-filter.html">логические выражения</a> типа >=5</p>
 
 		<div id='table-container'>
 			<table class="table" id="jquery-table">
 			</table>
 		</div>
-
+		
+		<p>Моя стратегия инвестирования оч простая:<br>
+			<ol>
+				<li>Добавляю в избранное акции только тех компаний, продукт которых знаю как сильный (все эти компании есть в таблице выше). Принципиально вообще не обращаю внимание на акции некоторых компаний (например табачные компании, некоторые российские госкорпорации, MC'Donalds, ВТБ - лично моя заморочка)</li>
+				<li>Запускаю скрипт, который анализирует рекомендации ведущих аналитиков на Тинькофф Инвестициях и сводит всё в табличку как таблица выше</li>
+				<li>Выбираю для покупки только акции у которых сводная рекомендация и аналитиков и теханализа = Покупать</li>
+				<li>Ранжирую в порядке минимальной прогнозной и дивидентной доходности. Приоритет отдаю компаниям из отраслей которые в ближайшее время в долгосрочной перспективе будут только расти - например IT, энергетика, логистика</li>
+				<li>Устанавливаю в приложении уведомление о достижении прогнозируемой доходности</li>
+				<li>При получении уведомления вновь смотрю рекомендацию по данной компании - и либо оставляю акции и устанавливаю новое уведомление либо продаю акции и на вырученные деньги покупаю акции другой компании с самым благоприятным прогнозом (вновь запускаю скрипт и повторяю всё действия с пункта 3)</li>
+			</ol>
+			
 	</div>
-
-	<footer class='footer'>
-		<div class='container-fluid'>
-			<hr />
-			<p class='pull-right'>Powered by <a href='https://github.com/pavelsr/csv-to-html-table'>CSV to jQuery tablesorter</a> by Pavel Serikov</p>
-		</div>
-	</footer>
+		<footer class='footer'>
+				<hr />
+				<p class='pull-right'>Powered by <a href='https://github.com/pavelsr/csv-to-html-table'>CSV to jQuery tablesorter</a> by Pavel Serikov</p>
+		</footer>
+	</div>
 
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
