@@ -38,3 +38,7 @@ python -m SimpleHTTPServer
 Then go to http://localhost:8000/
 
 Or just `xdg-open index.html`
+
+# Note for developers
+
+All formatting is done by javascript, `parse.pl` not format anything

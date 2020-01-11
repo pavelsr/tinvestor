@@ -11,6 +11,8 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.1/css/theme.blue.min.css">
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/3.4.6/select2.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
+	<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" /> -->
+	
 </head>
 
 <body>
@@ -18,9 +20,26 @@
 	<div class="container-fluid">
 
 		<h2>Рекомендации по акциям избранных компаний</h2>
-		<p>Я распарсил данные <a href="https://www.tinkoff.ru/invest/">Тинькофф.Инвестиций</a> и <a href="https://www.moex.com/" target="_blank">Московской биржи</a> и по своим избранным акциям - и вот что получилось</p>
+		<p>Цель этого проекта - помочь выбрать актив для инвестирования</p>
+		<p>Я распарсил данные <a href="https://www.tinkoff.ru/invest/">Тинькофф.Инвестиций</a> и <a href="https://www.moex.com/" target="_blank">Московской биржи</a> по своим избранным акциям - и вот что получилось</p>
 		<p>Актуально на <span id="file_date"></span></p>
 		<p>Для фильтрации можно использовать и <a href="https://mottie.github.io/tablesorter/docs/example-widget-filter.html">логические выражения</a> типа >=5</p>
+
+		<p>
+		<form>
+			<input type="checkbox" id="only_recommended" name="only_recommended"><label for="only_recommended">Показать только рекомендуемые к покупке акции</label><br>
+			<input type="checkbox" id="all_prices_in_rub" name="all_prices_in_rub" disabled><label for="all_prices_in_rub">Все цены в рублях</label><span id='dollar_sell_rate'></span><br>
+			<input type="checkbox" id="min_max_as_percentage" name="min_max_as_percentage" checked disabled><label for="min_max_as_percentage">Пессимистичные и оптимистичные прогнозы цены в процентах</label><br>
+			<input type="checkbox" id="count_commission" name="count_commission" ><label for="count_commission">Посчитать чистую прибыль, за вычетом комиссии Тинькофф (тариф Инвестор)</label><br>
+		</form>
+		</p>
+		
+		<div id="calculator" hidden>
+			
+		</div>
+		
+		<div id="obj_counter"></div>
+		<!-- <div id="columnSelector" class="columnSelector"> -->
 
 		<div id='table-container'>
 			<table class="table" id="jquery-table">
@@ -56,6 +75,9 @@
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.1/js/jquery.tablesorter.widgets.min.js"></script>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/select2/3.4.6/select2.min.js"></script>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.1/js/widgets/widget-filter-formatter-select2.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.2/js/widgets/widget-formatter.min.js"></script>
+	<!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.2/js/widgets/widget-columnSelector.min.js"></script> -->
+	
 	<script async defer src="https://buttons.github.io/buttons.js"></script>
 	<script type="text/javascript" src="index.js"></script>
 </body>

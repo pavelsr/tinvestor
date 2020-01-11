@@ -41,24 +41,24 @@ my %params = (
 # Всё что закоментировано - попробовать расчитать на фронте
 my @headers = (
     { name => 'Компания', param => 'name' },
-    { name => 'Страна', param => 'country' },
+    { name => 'MOEX', param => 'is_moex' },  # Есть ли акции на Московской бирже
     { name => 'Тикер', param => 'ticker' },
     { name => 'URL', param => 'url' },
+    { name => 'Количество прогнозов', param => 'analyst_q' },
     { name => 'Сводная рекомендация', param => 'recommendation' },
-    { name => 'Прогноз доходности, %', param => 'consensus_percent' },
+    { name => 'Прогноз доходности, avg, %', param => 'consensus_percent' },
     { name => 'Доходность за последние полгода, %', param => 'percent_past_half_year' },
-    { name => 'Дивидентная доходность, %', param => 'dividend_yield' },
-    { name => 'Валюта', param => 'currency' },  #
+    { name => 'Дивидентная доходность, avg, %', param => 'dividend_yield' },
+    { name => 'Валюта цены', param => 'currency' },  #
     { name => 'Цена текущая', param => 'price_now' },
     { name => 'Цена прогноз', param => 'consensus_price' },
     { name => 'Цена прогноз min', param => 'price_min' },
     { name => 'Цена прогноз max', param => 'price_max' },
     # { name => 'min доходность, %', param => 'min_yield' }, #
     # { name => 'max доходность, %', param => 'max_yield' }, #
-    { name => 'Количество прогнозов', param => 'analyst_q' },
     { name => 'Количество акций в одном стандартном лоте', param => 'lot_size' },
-    { name => 'Цена лота', param => 'price_lot' },          #
-    { name => 'Цена лота в рублях', param => 'price_lot_rub' },
+    # { name => 'Цена лота', param => 'price_lot' }, #
+    # { name => 'Цена лота в рублях', param => 'price_lot_rub' },
     { name => 'P/E', param => 'P/E' },
     { name => 'Режим торгов', param => 'primary_boardid' },
     { name => 'Уровень листинга', param => 'list_level' },
@@ -85,18 +85,18 @@ sub get_from_moex {
 	my $data = $ua->get($url)->result->dom->xml(1);
     my $res = {};
     if ( $data->at('data#description > rows')->children->size ) {
-        $res->{country} = 'RU';
+        $res->{is_moex} = 1;
 		$res->{ISIN} = eval { $data->at('data#description > rows > row[name="ISIN"]')->attr('value') };
 		$res->{list_level} = eval { $data->at('data#description > rows > row[name="LISTLEVEL"]')->attr('value') };
 		$res->{primary_boardid} = eval { $data->at('data#boards > rows > row[is_primary=1]')->attr('boardid') };
-		
+
 		$url = 'https://iss.moex.com/iss/engines/stock/markets/shares/boards/'.$res->{primary_boardid}.'/securities.xml?securities='.$ticker;
 		$data = $ua->get($url)->result->dom->xml(1);
 		$res->{lot_size} = eval { $data->at('data#securities > rows > row')->attr('LOTSIZE') };	
     }
     else {
-        $res->{country} = 'US';
-		$res->{lot_size} = 1;
+        $res->{is_moex} = 0;
+		# $res->{lot_size} = 1;
     }
 	return $res;
 }
