@@ -1,77 +1,84 @@
 "Компания",MOEX,"Тикер",URL,"Количество прогнозов","Сводная рекомендация","Прогноз доходности, avg, %","Доходность за последние полгода, %","Дивидентная доходность, avg, %","Валюта цены","Цена текущая","Цена прогноз","Цена прогноз min","Цена прогноз max","Количество акций в одном стандартном лоте",P/E,"Режим торгов","Уровень листинга",ISIN
-AMD,0,AMD,https://www.tinkoff.ru/invest/stocks/AMD/,7,"Покупать","19,37","62,15%",,$,"53,72 $","64,08 $","52 $","75 $",,,,,
-Alibaba,1,BABA,https://www.tinkoff.ru/invest/stocks/BABA/,10,"Покупать","31,22","14,3%",,$,"202,91 $","266,6 $","250 $","290 $",,,EQRD,,US01609W1027
-Amazon.com,1,AMZN,https://www.tinkoff.ru/invest/stocks/AMZN/,14,"Держать","7,75","36,44%",,$,"2 428,99 $","2 614,29 $","2 480 $","2 800 $",,,EQRD,,US0231351067
-"Analog Devices",0,ADI,https://www.tinkoff.ru/invest/stocks/ADI/,4,"Покупать","22,81","2,2%",,$,"110,7 $","135,75 $","130 $","145 $",,,,,
-BOEING,1,BA,https://www.tinkoff.ru/invest/stocks/BA/,2,"Покупать","29,09","-59,14%",,$,"141,39 $","182,5 $","175 $","190 $",,,EQRD,,US0970231058
-"Best Buy Co.",0,BBY,https://www.tinkoff.ru/invest/stocks/BBY/,3,"Покупать","25,39","7,08%",,$,"77,9 $","97,67 $","87 $","105 $",,,,,
-Broadcom,0,AVGO,https://www.tinkoff.ru/invest/stocks/AVGO/,1,"Покупать","34,72","-6,35%",,$,"272,09 $","366 $","366 $","366 $",,,,,
-Chevron,0,CVX,https://www.tinkoff.ru/invest/stocks/CVX/,9,"Покупать","39,01","-20,59%",,$,"92,42 $","128 $","100 $","144 $",,,,,
-"Columbia Sportswear Company",0,COLM,https://www.tinkoff.ru/invest/stocks/COLM/,4,"Покупать","47,44","-21,93%",,$,"72,98 $","107,5 $","90 $","115 $",,,,,
-"Dolby Laboratories Inc",0,DLB,https://www.tinkoff.ru/invest/stocks/DLB/,1,"Покупать","18,53","-6,99%",,$,"59,92 $","71 $","71 $","71 $",,,,,
-"Electronic Arts",0,EA,https://www.tinkoff.ru/invest/stocks/EA/,4,"Покупать","15,13","17,37%",,$,"113,52 $","130,75 $","125 $","137 $",,,,,
-Equifax,0,EFX,https://www.tinkoff.ru/invest/stocks/EFX/,5,"Держать","5,75","3,54%",,$,"139,76 $","148 $","128 $","166 $",,,,,
-"FLIR Systems",0,FLIR,https://www.tinkoff.ru/invest/stocks/FLIR/,1,"Держать","9,51","-20,32%",,$,"43,83 $","48 $","48 $","48 $",,,,,
-Facebook,1,FB,https://www.tinkoff.ru/invest/stocks/FB/,16,"Покупать","25,66","8,9%",,$,"205,03 $","257,88 $","230 $","285 $",,,EQRD,,US30303M1027
-"First Solar",0,FSLR,https://www.tinkoff.ru/invest/stocks/FSLR/,5,"Покупать","57,43","-14,73%",,$,"44,24 $","69,6 $","63 $","79 $",,,,,
-Ford,0,F,https://www.tinkoff.ru/invest/stocks/F/,3,"Покупать","57,09","-39,81%",,$,"5,15 $","8,09 $","5 $","12 $",,,,,
-GILEAD,0,GILD,https://www.tinkoff.ru/invest/stocks/GILD/,0,,,"32,34%",,$,"83,58 $",,,,,,,,
-Garmin,0,GRMN,https://www.tinkoff.ru/invest/stocks/GRMN/,0,,,"-16,44%",,$,"80,54 $",,,,,,,,
-"General Electric Company",0,GE,https://www.tinkoff.ru/invest/stocks/GE/,8,"Покупать","69,17","-34,22%",,$,"6,65 $","11,25 $","5 $","16 $",,,,,
-"General Motors",0,GM,https://www.tinkoff.ru/invest/stocks/GM/,7,"Покупать","75,21","-39,86%",,$,"22,81 $","39,86 $","24 $","47 $",,,,,
-"Goldman Sachs",0,GS,https://www.tinkoff.ru/invest/stocks/GS/,6,"Покупать","26,35","-13,85%",,$,"185,99 $","234,67 $","185 $","282 $",,,,,
-Google,1,GOOG,https://www.tinkoff.ru/invest/stocks/GOOG/,0,,,"5,53%",,$,"1 331,48 $",,,,,,EQRD,,US02079K1079
-HP,0,HPQ,https://www.tinkoff.ru/invest/stocks/HPQ/,4,"Покупать","50,99","-10,73%",,$,"15,73 $","23,75 $","16 $","28 $",,,,,
-Honeywell,0,HON,https://www.tinkoff.ru/invest/stocks/HON/,3,"Покупать","22,52","-18,45%",,$,"142,37 $","174,67 $","156 $","203 $",,,,,
-IBM,0,IBM,https://www.tinkoff.ru/invest/stocks/IBM/,5,"Держать","6,74","-6,55%",,$,"126,43 $","135 $","125 $","147 $",,,,,
-"IPG Photonics Corporation",0,IPGP,https://www.tinkoff.ru/invest/stocks/IPGP/,3,"Покупать","37,3","-2,19%",,$,"130,73 $","179,34 $","170 $","193 $",,,,,
-"Intel Corporation",1,INTC,https://www.tinkoff.ru/invest/stocks/INTC/,8,"Покупать","19,05","6,86%",,$,"60,49 $","72 $","60 $","85 $",,,EQRD,,US4581401001
-"LG Display",0,LPL,https://www.tinkoff.ru/invest/stocks/LPL/,0,,,"-21,54%",,$,"4,6 $",,,,,,,,
-"Lockheed Martin",0,LMT,https://www.tinkoff.ru/invest/stocks/LMT/,10,"Покупать","15,77","2,69%",,$,"389,22 $","450,3 $","377 $","520 $",,,,,
-"Manchester United Plc",0,MANU,https://www.tinkoff.ru/invest/stocks/MANU/,0,,,"-0,18%",,$,"17,06 $",,,,,,,,
-Mastercard,0,MA,https://www.tinkoff.ru/invest/stocks/MA/,7,"Покупать","33,27","-0,18%",,$,"276,65 $","369,15 $","334 $","380 $",,,,,
-"Microchip Technology",0,MCHP,https://www.tinkoff.ru/invest/stocks/MCHP/,10,"Покупать","40,05","-6,74%",,$,"89,03 $","124,6 $","115 $","140 $",,,,,
-"Micron Technology",0,MU,https://www.tinkoff.ru/invest/stocks/MU/,6,"Покупать","62,07","0,29%",,$,"48,03 $","77,34 $","69 $","100 $",,,,,
-"Microsoft Corporation",1,MSFT,https://www.tinkoff.ru/invest/stocks/MSFT/,12,"Держать","11,9","23,55%",,$,"178,66 $","200,34 $","195 $","210 $",,,EQRD,,US5949181045
-"Motorola Solutions",0,MSI,https://www.tinkoff.ru/invest/stocks/MSI/,1,"Покупать","43,71","-11,66%",,$,"146,15 $","210 $","210 $","210 $",,,,,
-NIKE,1,NKE,https://www.tinkoff.ru/invest/stocks/NKE/,2,"Покупать","18,42","-3,08%",,$,"87,42 $","103,5 $","96 $","111 $",,,EQRD,,US6541061031
-"NRG Energy",0,NRG,https://www.tinkoff.ru/invest/stocks/NRG/,4,"Покупать","40,92","-17,82%",,$,"33,5 $","47,25 $","44 $","51 $",,,,,
-NVIDIA,1,NVDA,https://www.tinkoff.ru/invest/stocks/NVDA/,5,"Держать","11,69","45,88%",,$,"296,17 $","330,92 $","289,59 $","350 $",,,EQRD,,US67066G1040
-Netflix,0,NFLX,https://www.tinkoff.ru/invest/stocks/NFLX/,10,"Держать","-2,32","44,09%",,$,"420,08 $","409,8 $","173 $","540 $",,,,,
-Pfizer,1,PFE,https://www.tinkoff.ru/invest/stocks/PFE/,3,"Держать","13,46","-1,59%",,$,"37,87 $","43 $","37 $","46 $",,,EQRD,,US7170811035
-"Pluralsight Inc",0,PS,https://www.tinkoff.ru/invest/stocks/PS/,1,"Держать","9,4","-7,7%",,$,"16,92 $","18,5 $","18,5 $","18,5 $",,,,,
-QIWI,1,QIWI,https://www.tinkoff.ru/invest/stocks/QIWI/,0,,,"-23,13%",,"₽","925,5 ₽",,,,1,,TQBR,1,US74735M1080
-Qualcomm,0,QCOM,https://www.tinkoff.ru/invest/stocks/QCOM/,7,"Покупать","21,44","-1,17%",,$,"80,5 $","97,58 $","77 $","105 $",,,,,
-"Royal Dutch Shell (A)",0,RDS.A,https://www.tinkoff.ru/invest/stocks/RDS.A/,4,"Покупать","90,3","-43,53%",,$,"33,91 $","64,55 $","60 $","72 $",,,,,
-Schlumberger,0,SLB,https://www.tinkoff.ru/invest/stocks/SLB/,4,"Покупать","169,21","-48,28%",,$,"17,12 $","46,25 $","43 $","50 $",,,,,
-"Silicon Laboratories Inc",0,SLAB,https://www.tinkoff.ru/invest/stocks/SLAB/,1,"Покупать","21,16","-9,1%",,$,"99,05 $","120 $","120 $","120 $",,,,,
-"Stanley Black & Decker",0,SWK,https://www.tinkoff.ru/invest/stocks/SWK/,2,"Покупать","22,27","-26,72%",,$,"112,45 $","137,5 $","130 $","145 $",,,,,
-"TCS Group (Tinkoff Bank holder)",0,TCS,https://www.tinkoff.ru/invest/stocks/TCS/,5,"Покупать","75,11","-26,61%",,$,"13,76 $","24,34 $","17,5 $","34 $",,,,,
-"Texas Instruments",0,TXN,https://www.tinkoff.ru/invest/stocks/TXN/,8,"Держать","12,89","-1,37%",,$,"116,18 $","131,13 $","108 $","164 $",,,,,
-"Ubiquiti Inc",0,UI,https://www.tinkoff.ru/invest/stocks/UI/,0,,,"27,27%",,$,"164,3 $",,,,,,,,
-"Wal-Mart Stores",0,WMT,https://www.tinkoff.ru/invest/stocks/WMT/,0,,,"3,18%",,$,"121,86 $",,,,,,,,
-"Walt Disney",0,DIS,https://www.tinkoff.ru/invest/stocks/DIS/,7,"Покупать","45,05","-16,07%",,$,"108,79 $","157,86 $","114 $","180 $",,,,,
-Xerox,0,XRX,https://www.tinkoff.ru/invest/stocks/XRX/,3,"Держать","-2,33","-46,01%",,$,"18,42 $","18 $","13 $","23 $",,,,,
-Xilinx,0,XLNX,https://www.tinkoff.ru/invest/stocks/XLNX/,7,"Держать","10,02","-2,65%",,$,"88,84 $","97,72 $","85 $","105 $",,,,,
-Yandex,1,YNDX,https://www.tinkoff.ru/invest/stocks/YNDX/,0,,,"32,23%",,"₽","2 793,8 ₽",,,,1,,TQBR,1,NL0009805522
-eBay,0,EBAY,https://www.tinkoff.ru/invest/stocks/EBAY/,5,"Держать","9,85","10,12%",,$,"39,5 $","43,4 $","40 $","50 $",,,,,
-"Аэрофлот",1,AFLT,https://www.tinkoff.ru/invest/stocks/AFLT/,1,"Держать","14,84","-28,39%",,"₽","75,76 ₽","87 ₽","87 ₽","87 ₽",10,,TQBR,1,RU0009062285
-"Банк Санкт-Петербург",1,BSPB,https://www.tinkoff.ru/invest/stocks/BSPB/,2,"Покупать","60,43","-18,81%",,"₽","41,45 ₽","66,5 ₽","55 ₽","78 ₽",10,,TQBR,1,RU0009100945
-"Газпром",1,GAZP,https://www.tinkoff.ru/invest/stocks/GAZP/,6,"Покупать","26,51","-27,37%",,"₽","183,2 ₽","240,37 ₽","119,4 ₽","318,71 ₽",10,,TQBR,1,RU0007661625
-"Группа ЛСР",1,LSRG,https://www.tinkoff.ru/invest/stocks/LSRG/,0,,,"-15,41%",,"₽","604 ₽",,,,1,,TQBR,1,RU000A0JPFP0
-"Иркутскэнерго",1,IRGZ,https://www.tinkoff.ru/invest/stocks/IRGZ/,0,,,"-16,83%",,"₽","12,16 ₽",,,,100,,TQBR,3,RU0008960828
-"КАМАЗ",1,KMAZ,https://www.tinkoff.ru/invest/stocks/KMAZ/,0,,,"-0,36%",,"₽","55,5 ₽",,,,10,,TQBR,2,RU0008959580
-"ЛУКОЙЛ",1,LKOH,https://www.tinkoff.ru/invest/stocks/LKOH/,5,"Покупать","41,5","-17,5%",,"₽","4 678,5 ₽","6 829,5 ₽","5 402 ₽","8 700 ₽",1,,TQBR,1,RU0009024277
-"Ленэнерго",1,LSNG,https://www.tinkoff.ru/invest/stocks/LSNG/,0,,,"-19,94%",,"₽","5,66 ₽",,,,100,,TQBR,3,RU0009034490
-"Магнит",1,MGNT,https://www.tinkoff.ru/invest/stocks/MGNT/,4,"Держать","1,9","15,26%",,"₽","3 549 ₽","3 760 ₽","2 000 ₽","4 460 ₽",1,,TQBR,1,RU000A0JKQU8
-"НЛМК",1,NLMK,https://www.tinkoff.ru/invest/stocks/NLMK/,0,,,"0,66%",,"₽","128,34 ₽",,,,10,,TQBR,1,RU0009046452
-"НОВАТЭК",1,NVTK,https://www.tinkoff.ru/invest/stocks/NVTK/,3,"Покупать","28,85","-24,01%",,"₽","1 001 ₽","1 336,4 ₽","1 260 ₽","1 387 ₽",1,,TQBR,1,RU000A0DKVS5
-"Норильский никель",1,GMKN,https://www.tinkoff.ru/invest/stocks/GMKN/,2,"Покупать","20,79","12,57%",,"₽","20 478 ₽","24 736 ₽","23 800 ₽","25 672 ₽",1,,TQBR,1,RU0007288411
-"Объединенная авиастроительная корпорация",1,UNAC,https://www.tinkoff.ru/invest/stocks/UNAC/,0,,,"-15,09%",,"₽","0,512 ₽",,,,1000,,TQBR,3,RU000A0JPLZ7
-"ПИК",1,PIKK,https://www.tinkoff.ru/invest/stocks/PIKK/,2,"Держать","13,79","15,11%",,"₽","391,5 ₽","445,5 ₽","391 ₽","500 ₽",10,,TQBR,1,RU000A0JP7J7
-"РКК Энергия им.С.П.Королева",1,RKKE,https://www.tinkoff.ru/invest/stocks/RKKE/,0,,,"-5,26%",,"₽","4 980 ₽",,,,1,,TQBR,3,RU0009095939
-"Российские сети - акции привилегированные",1,RSTIP,https://www.tinkoff.ru/invest/stocks/RSTIP/,0,,,"3,41%",,"₽","1,546 ₽",,,,1000,,TQBR,1,RU000A0JPVK8
-"Русгрэйн",1,RUGR,https://www.tinkoff.ru/invest/stocks/RUGR/,0,,,"58,52%",,"₽","7,85 ₽",,,,10,,TQBR,3,RU000A0JPNP4
-"Сбербанк России - привилегированные акции",1,SBERP,https://www.tinkoff.ru/invest/stocks/SBERP/,4,"Покупать","52,79","-17,73%",,"₽","173,22 ₽","270,75 ₽","250 ₽","290 ₽",10,,TQBR,1,RU0009029557
-"Центральный Телеграф",1,CNTL,https://www.tinkoff.ru/invest/stocks/CNTL/,0,,,"31,78%",,"₽","22,6 ₽",,,,100,,TQBR,3,RU0007665147
-"Центральный Телеграф - акции привилегированные",1,CNTLP,https://www.tinkoff.ru/invest/stocks/CNTLP/,0,,,"23,05%",,"₽","18,26 ₽",,,,100,,TQBR,3,RU0007665139
+AMD,0,AMD,https://www.tinkoff.ru/invest/stocks/AMD/,4,"Покупать","19,89","32,13%",,$,"52,35 $","62,88 $","52 $","67,5 $",,,,,
+Alibaba,1,BABA,https://www.tinkoff.ru/invest/stocks/BABA/,8,"Покупать","19,04","9,95%",,$,"219,91 $","261,75 $","235 $","290 $",,,EQRD,,US01609W1027
+Amazon.com,1,AMZN,https://www.tinkoff.ru/invest/stocks/AMZN/,4,"Держать","10,83","41,65%",,$,"2 465,55 $","2 731,25 $","2 525 $","3 000 $",,,EQRD,,US0231351067
+"Analog Devices",0,ADI,https://www.tinkoff.ru/invest/stocks/ADI/,6,"Держать","5,09","11,43%",,$,"126,44 $","132,84 $","115 $","145 $",,,,,
+BOEING,1,BA,https://www.tinkoff.ru/invest/stocks/BA/,0,,,"-38,47%",,$,"212,76 $",,,,,,EQRD,,US0970231058
+"Best Buy Co.",0,BBY,https://www.tinkoff.ru/invest/stocks/BBY/,7,"Держать","9,21","2,99%",,$,"82,75 $","90,43 $","80 $","105 $",,,,,
+Broadcom,0,AVGO,https://www.tinkoff.ru/invest/stocks/AVGO/,2,"Держать","10,55","4,67%",,$,"325,86 $","360 $","360 $","360 $",,,,,
+Chevron,0,CVX,https://www.tinkoff.ru/invest/stocks/CVX/,6,"Держать","5,74","-13,01%",,$,"101,21 $","106,84 $","92 $","125 $",,,,,
+"Columbia Sportswear Company",0,COLM,https://www.tinkoff.ru/invest/stocks/COLM/,1,"Держать","4,75","-6,38%",,$,"85,74 $","90 $","90 $","90 $",,,,,
+"Dolby Laboratories Inc",0,DLB,https://www.tinkoff.ru/invest/stocks/DLB/,1,"Держать","5,59","-3,72%",,$,"64,38 $","68 $","68 $","68 $",,,,,
+"Electronic Arts",0,EA,https://www.tinkoff.ru/invest/stocks/EA/,3,"Держать","7,76","15,33%",,$,"117,77 $","127 $","122 $","130 $",,,,,
+Equifax,0,EFX,https://www.tinkoff.ru/invest/stocks/EFX/,1,"Держать","-6,9","28,39%",,$,"177,27 $","165 $","165 $","165 $",,,,,
+"FLIR Systems",0,FLIR,https://www.tinkoff.ru/invest/stocks/FLIR/,1,"Держать","9,77","-10,1%",,$,"47,43 $","52 $","52 $","52 $",,,,,
+Facebook,1,FB,https://www.tinkoff.ru/invest/stocks/FB/,4,"Держать","9,58","15,19%",,$,"229,67 $","252 $","240 $","260 $",,,EQRD,,US30303M1027
+"First Solar",0,FSLR,https://www.tinkoff.ru/invest/stocks/FSLR/,7,"Покупать","24,56","-0,63%",,$,"51,97 $","64,72 $","54 $","76 $",,,,,
+Ford,0,F,https://www.tinkoff.ru/invest/stocks/F/,1,"Продавать","-51,66","-18,92%",,$,"7,25 $","3,5 $","3,5 $","3,5 $",,,,,
+GILEAD,0,GILD,https://www.tinkoff.ru/invest/stocks/GILD/,6,"Держать","-1,53","17,02%",,$,"77,15 $","75,84 $","64 $","84 $",,,,,
+Garmin,0,GRMN,https://www.tinkoff.ru/invest/stocks/GRMN/,0,,,"0,74%",,$,"96,38 $",,,,,,,,
+"General Electric Company",0,GE,https://www.tinkoff.ru/invest/stocks/GE/,7,"Держать","10,64","-23,35%",,$,"8,28 $","9,15 $","5 $","15 $",,,,,
+"General Motors",0,GM,https://www.tinkoff.ru/invest/stocks/GM/,2,"Покупать","33,02","-14,87%",,$,"30,06 $","40 $","40 $","40 $",,,,,
+"Goldman Sachs",0,GS,https://www.tinkoff.ru/invest/stocks/GS/,4,"Покупать","17,26","2,06%",,$,"221,61 $","259,75 $","236 $","282 $",,,,,
+Google,1,GOOG,https://www.tinkoff.ru/invest/stocks/GOOG/,0,,,"7,67%",,$,"1 430 $",,,,,,EQRD,,US02079K1079
+HP,0,HPQ,https://www.tinkoff.ru/invest/stocks/HPQ/,6,"Покупать","17,34","-13,93%",,$,"17,49 $","20,5 $","11 $","28 $",,,,,
+Honeywell,0,HON,https://www.tinkoff.ru/invest/stocks/HON/,1,"Держать","-8,1","-6,79%",,$,"162,27 $","149 $","149 $","149 $",,,,,
+IBM,0,IBM,https://www.tinkoff.ru/invest/stocks/IBM/,4,"Держать","1,68","0,62%",,$,"132,75 $","135 $","125 $","147 $",,,,,
+"IPG Photonics Corporation",0,IPGP,https://www.tinkoff.ru/invest/stocks/IPGP/,3,"Держать","5,77","19,79%",,$,"168,03 $","177,6 $","173,8 $","184 $",,,,,
+"Intel Corporation",1,INTC,https://www.tinkoff.ru/invest/stocks/INTC/,3,"Держать","-0,48","15,01%",,$,"64,5 $","64 $","60 $","70 $",,,EQRD,,US4581401001
+"LG Display",0,LPL,https://www.tinkoff.ru/invest/stocks/LPL/,0,,,"-15,22%",,$,"5,19 $",,,,,,,,
+"Lockheed Martin",0,LMT,https://www.tinkoff.ru/invest/stocks/LMT/,8,"Держать","5,07","7,23%",,$,"413,83 $","435 $","377 $","507 $",,,,,
+"Manchester United Plc",0,MANU,https://www.tinkoff.ru/invest/stocks/MANU/,1,"Держать","2,04","-3,5%",,$,"17,66 $","18 $","18 $","18 $",,,,,
+Mastercard,0,MA,https://www.tinkoff.ru/invest/stocks/MA/,2,"Держать","4,14","6,21%",,$,"307,85 $","321 $","308 $","334 $",,,,,
+"Microchip Technology",0,MCHP,https://www.tinkoff.ru/invest/stocks/MCHP/,4,"Держать","7,64","16,44%",,$,"112,62 $","121,25 $","115 $","130 $",,,,,
+"Micron Technology",0,MU,https://www.tinkoff.ru/invest/stocks/MU/,4,"Держать","8,45","15,29%",,$,"53,76 $","58,25 $","48 $","66 $",,,,,
+"Microsoft Corporation",1,MSFT,https://www.tinkoff.ru/invest/stocks/MSFT/,5,"Держать","6,97","23,7%",,$,"185,48 $","198,6 $","185 $","208 $",,,EQRD,,US5949181045
+"Motorola Solutions",0,MSI,https://www.tinkoff.ru/invest/stocks/MSI/,4,"Держать","11,72","-3,76%",,$,"154,46 $","172,5 $","157 $","210 $",,,,,
+NIKE,1,NKE,https://www.tinkoff.ru/invest/stocks/NKE/,1,"Держать","-6,18","6,84%",,$,"102,35 $","96 $","96 $","96 $",,,EQRD,,US6541061031
+"NRG Energy",0,NRG,https://www.tinkoff.ru/invest/stocks/NRG/,4,"Покупать","24,06","-4,54%",,$,"36,86 $","45,63 $","41 $","54 $",,,,,
+NVIDIA,1,NVDA,https://www.tinkoff.ru/invest/stocks/NVDA/,2,"Покупать","18,16","69,29%",,$,"353,45 $","417,5 $","410 $","425 $",,,EQRD,,US67066G1040
+Netflix,0,NFLX,https://www.tinkoff.ru/invest/stocks/NFLX/,7,"Покупать",25,"36,91%",,$,"414,66 $","518,58 $","500 $","540 $",,,,,
+"Otis Worldwide",0,OTIS,https://www.tinkoff.ru/invest/stocks/OTIS/,2,"Держать","5,23","18,9%",,$,"57,29 $","60 $","56 $","64 $",,,,,
+Pfizer,1,PFE,https://www.tinkoff.ru/invest/stocks/PFE/,3,"Держать","0,25","-4,68%",,$,"36,26 $","36,34 $","35 $","37 $",,,EQRD,,US7170811035
+"Pluralsight Inc",0,PS,https://www.tinkoff.ru/invest/stocks/PS/,1,"Покупать","28,27","25,53%",,$,"20,27 $","26 $","26 $","26 $",,,,,
+QIWI,1,QIWI,https://www.tinkoff.ru/invest/stocks/QIWI/,0,,,"-20,66%",,"₽","1 006,5 ₽",,,,1,,TQBR,1,US74735M1080
+Qualcomm,0,QCOM,https://www.tinkoff.ru/invest/stocks/QCOM/,5,"Держать","6,68","7,6%",,$,"88,86 $","94,8 $","83 $","102 $",,,,,
+"Royal Dutch Shell (A)",0,RDS.A,https://www.tinkoff.ru/invest/stocks/RDS.A/,1,"Покупать","66,1","-32,59%",,$,"38,09 $","63,2 $","63,2 $","63,2 $",,,,,
+Schlumberger,0,SLB,https://www.tinkoff.ru/invest/stocks/SLB/,0,,,"-37,85%",,$,"22,28 $",,,,,,,,
+"Silicon Laboratories Inc",0,SLAB,https://www.tinkoff.ru/invest/stocks/SLAB/,2,"Покупать","22,23","-10,51%",,$,"96,18 $","117,5 $","115 $","120 $",,,,,
+"Stanley Black & Decker",0,SWK,https://www.tinkoff.ru/invest/stocks/SWK/,1,"Держать","6,62","-5,36%",,$,"149,05 $","159 $","159 $","159 $",,,,,
+"TCS Group (Tinkoff Bank holder)",0,TCS,https://www.tinkoff.ru/invest/stocks/TCS/,7,"Покупать","19,69","-1,98%",,$,"17,85 $","21,28 $","18,7 $","29,7 $",,,,,
+"Texas Instruments",0,TXN,https://www.tinkoff.ru/invest/stocks/TXN/,1,"Держать","6,03","9,32%",,$,"132,03 $","140 $","140 $","140 $",,,,,
+"Ubiquiti Inc",0,UI,https://www.tinkoff.ru/invest/stocks/UI/,2,"Продавать","-28,33","-8,22%",,$,"180,23 $","129 $","126 $","132 $",,,,,
+"Wal-Mart Stores",0,WMT,https://www.tinkoff.ru/invest/stocks/WMT/,7,"Держать","10,23","1,98%",,$,"121,06 $","133,72 $","125 $","140 $",,,,,
+"Walt Disney",0,DIS,https://www.tinkoff.ru/invest/stocks/DIS/,4,"Держать","-7,9",-14%,,$,"126,79 $","116,75 $","85 $","140 $",,,,,
+Xerox,0,XRX,https://www.tinkoff.ru/invest/stocks/XRX/,2,"Держать","-5,36","-49,71%",,$,"19,03 $","18 $","13 $","23 $",,,,,
+Xilinx,0,XLNX,https://www.tinkoff.ru/invest/stocks/XLNX/,4,"Держать","0,82","7,7%",,$,"97,67 $","98,5 $","90 $","105 $",,,,,
+Yandex,1,YNDX,https://www.tinkoff.ru/invest/stocks/YNDX/,0,,,"12,21%",,"₽","2 882 ₽",,,,1,,TQBR,1,NL0009805522
+eBay,0,EBAY,https://www.tinkoff.ru/invest/stocks/EBAY/,1,"Покупать","21,57","38,95%",,$,"48,35 $","59 $","59 $","59 $",,,,,
+"Аэрофлот",1,AFLT,https://www.tinkoff.ru/invest/stocks/AFLT/,3,"Держать","-14,49","-12,55%",,"₽","89,36 ₽","76,34 ₽","51 ₽","110 ₽",10,,TQBR,1,RU0009062285
+"Банк Санкт-Петербург",1,BSPB,https://www.tinkoff.ru/invest/stocks/BSPB/,1,"Покупать","33,72","-18,21%",,"₽","41,13 ₽","55 ₽","55 ₽","55 ₽",10,,TQBR,1,RU0009100945
+"ГДР X5 RetailGroup",1,FIVE,https://www.tinkoff.ru/invest/stocks/FIVE/,0,,,"4,38%",,"₽","2 148,5 ₽",,,,1,,TQBR,1,US98387E2054
+"Газпром",1,GAZP,https://www.tinkoff.ru/invest/stocks/GAZP/,6,"Держать","10,82","-17,19%",,"₽","204,01 ₽","225,96 ₽","112,5 ₽","299 ₽",10,,TQBR,1,RU0007661625
+"Группа ЛСР",1,LSRG,https://www.tinkoff.ru/invest/stocks/LSRG/,0,,,"-12,83%",,"₽","648,4 ₽",,,,1,,TQBR,1,RU000A0JPFP0
+"Иркутскэнерго",1,IRGZ,https://www.tinkoff.ru/invest/stocks/IRGZ/,0,,,"-15,87%",,"₽","12,16 ₽",,,,100,,TQBR,3,RU0008960828
+"КАМАЗ",1,KMAZ,https://www.tinkoff.ru/invest/stocks/KMAZ/,0,,,"4,36%",,"₽","59,8 ₽",,,,10,,TQBR,2,RU0008959580
+"ЛУКОЙЛ",1,LKOH,https://www.tinkoff.ru/invest/stocks/LKOH/,6,"Держать","13,05","-10,16%",,"₽","5 499,5 ₽","6 218 ₽","5 370 ₽","8 700 ₽",1,,TQBR,1,RU0009024277
+"Лента",1,LNTA,https://www.tinkoff.ru/invest/stocks/LNTA/,0,,,"-17,67%",,"₽","166,4 ₽",,,,1,,TQBR,1,US52634T2006
+"Ленэнерго",1,LSNG,https://www.tinkoff.ru/invest/stocks/LSNG/,0,,,"-13,27%",,"₽","6,11 ₽",,,,100,,TQBR,3,RU0009034490
+"Ленэнерго - акции привилегированные",1,LSNGP,https://www.tinkoff.ru/invest/stocks/LSNGP/,0,,,"36,77%",,"₽","167 ₽",,,,10,,TQBR,3,RU0009092134
+"Магнит",1,MGNT,https://www.tinkoff.ru/invest/stocks/MGNT/,5,"Держать","3,74","20,6%",,"₽","3 858 ₽","3 994 ₽","2 000 ₽","4 720 ₽",1,,TQBR,1,RU000A0JKQU8
+"НЛМК",1,NLMK,https://www.tinkoff.ru/invest/stocks/NLMK/,0,,,"8,53%",,"₽","143,04 ₽",,,,10,,TQBR,1,RU0009046452
+"НОВАТЭК",1,NVTK,https://www.tinkoff.ru/invest/stocks/NVTK/,5,"Покупать","20,07","-13,15%",,"₽","1 086,8 ₽","1 307,6 ₽","1 102,6 ₽","1 500 ₽",1,,TQBR,1,RU000A0DKVS5
+"Норильский никель",1,GMKN,https://www.tinkoff.ru/invest/stocks/GMKN/,2,"Покупать","21,12","15,88%",,"₽","20 424 ₽","24 736 ₽","23 800 ₽","25 672 ₽",1,,TQBR,1,RU0007288411
+"Объединенная авиастроительная корпорация",1,UNAC,https://www.tinkoff.ru/invest/stocks/UNAC/,0,,,"-23,64%",,"₽","0,47 ₽",,,,1000,,TQBR,3,RU000A0JPLZ7
+"ПИК",1,PIKK,https://www.tinkoff.ru/invest/stocks/PIKK/,1,"Держать","0,57","0,65%",,"₽","388,9 ₽","391 ₽","391 ₽","391 ₽",10,,TQBR,1,RU000A0JP7J7
+"РКК Энергия им.С.П.Королева",1,RKKE,https://www.tinkoff.ru/invest/stocks/RKKE/,0,,,"-4,04%",,"₽","4 990 ₽",,,,1,,TQBR,3,RU0009095939
+"Российские сети - акции привилегированные",1,RSTIP,https://www.tinkoff.ru/invest/stocks/RSTIP/,0,,,"63,68%",,"₽","2,375 ₽",,,,1000,,TQBR,1,RU000A0JPVK8
+"Ростелеком",1,RTKM,https://www.tinkoff.ru/invest/stocks/RTKM/,4,"Держать","6,21","5,47%",,"₽","84,9 ₽","89,75 ₽","83 ₽","100 ₽",10,,TQBR,1,RU0008943394
+"Ростелеком - Привилегированные акции",1,RTKMP,https://www.tinkoff.ru/invest/stocks/RTKMP/,0,,,"13,09%",,"₽","75,25 ₽",,,,10,,TQBR,1,RU0009046700
+"Русгрэйн",1,RUGR,https://www.tinkoff.ru/invest/stocks/RUGR/,0,,,"61,43%",,"₽","7,564 ₽",,,,10,,TQBR,3,RU000A0JPNP4
+"САФМАР",1,SFIN,https://www.tinkoff.ru/invest/stocks/SFIN/,0,,,"-6,94%",,"₽","457,4 ₽",,,,10,,TQBR,1,RU000A0JVW89
+"Сбербанк России - привилегированные акции",1,SBERP,https://www.tinkoff.ru/invest/stocks/SBERP/,6,"Покупать","19,18","-5,54%",,"₽","199,53 ₽","238 ₽","180 ₽","278 ₽",10,,TQBR,1,RU0009029557
+"Центральный Телеграф",1,CNTL,https://www.tinkoff.ru/invest/stocks/CNTL/,0,,,"20,29%",,"₽","21,1 ₽",,,,100,,TQBR,3,RU0007665147
+"Центральный Телеграф - акции привилегированные",1,CNTLP,https://www.tinkoff.ru/invest/stocks/CNTLP/,0,,,"22,8%",,"₽","17,34 ₽",,,,100,,TQBR,3,RU0007665139

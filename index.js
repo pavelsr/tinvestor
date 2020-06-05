@@ -240,9 +240,9 @@ $.get( csv_filename, function( data, textStatus, request ) {
 			$('#only_recommended').change(function() {
 			    if(this.checked) {
 					var filters = [];
-					filters[2] = 'Покупать|';
-					filters[3] = '>10|';
-					filters[4] = '>5|';
+					filters[3] = 'Покупать|';
+					filters[4] = '>10|';
+					filters[5] = '>5|';
 					$.tablesorter.setFilters( $("#jquery-table"), filters, true );
 			    }
 				else {
