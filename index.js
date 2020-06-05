@@ -15,7 +15,7 @@ function get_tradingview_link(ticker, price_str) {
 	var exchange = 'MOEX';
 	if ( price_str.match(/\$/) ) {
 		// console.log( price_str );
-		exchange = 'LSE'
+		exchange = 'NYSE'
 	}
 	return 'https://ru.tradingview.com/symbols/'+exchange+'-'+ticker;
 	// https://ru.tradingview.com/symbols/NASDAQ-YNDX/
